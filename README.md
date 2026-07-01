@@ -1,106 +1,336 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Aparna%20Tiwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20ECE%20Engineer&descAlignY=65&descAlign=50&descSize=16&descColor=a78bfa"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aparna%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ECE%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa"/>
 
-[LinkedIn](https://linkedin.com/in/aparna-tiwari-b1068b330) · [GitHub](https://github.com/Apa123-v) · [Portfolio](https://courageous-kelpie-5be897.netlify.app) · [Email](mailto:kirantiwari9984@gmail.com)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;I+don%27t+just+write+code%2C+I+craft+experiences+%E2%9C%A8;MERN+Stack+%7C+Java+%7C+Python+%7C+ECE;Turning+caffeine+into+clean+code+%E2%98%95;ECE+student+who+speaks+fluent+JavaScript;Systems+thinker.+Full-Stack+builder.;Currently+shipping+something+new+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparna-tiwari-b1068b330)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apa123-v)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://courageous-kelpie-5be897.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantiwari9984@gmail.com)
+
+<br/>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Apa123-v&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 
 </div>
 
-<br/>
-
-## Hi, I'm Aparna.
-
-I'm a final-year ECE student who ended up spending more time in VS Code than in the circuits lab — and I'm fine with that. I like the two ends of the stack equally: designing a clean REST API and soldering a PCB scratch the same itch for me. Most of what's below started as "I wonder if I could build that" at 11pm.
-
-Right now I split my time between full-stack web projects (MERN, mostly) and embedded systems work that comes with my ECE degree. I'm based in Lucknow, graduating in 2026, and currently deep in advanced DSA and system design.
-
-<br/>
-
-## What I work with
-
-Not a badge wall — just what I actually reach for.
-
-**Day-to-day:** JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS
-**When the project needs it:** Next.js, Three.js, PostgreSQL, MySQL, JDBC
-**From the ECE side:** Java, Python, C, ESP32, ATmega328P, PCB design
-**To ship it:** Git, Postman, Netlify, VS Code
-
-<br/>
-
-## Systems I've built
-
-**[School ERP Management System](https://github.com/Apa123-v/School_ERP_Management_System)**
-A full-stack MERN app for running core school administration — the kind of project where the hard part isn't any single feature, it's keeping the data model sane as the scope grows. MongoDB, Express, React, Node.
-
-**[Store Rating Platform](https://github.com/Apa123-v/Store-Rating-Platform)**
-Users can add stores and leave reviews, with everything backed by a proper relational schema instead of a junk-drawer NoSQL collection. Built with React, Next.js, and PostgreSQL — my first real project reaching for Postgres over Mongo, on purpose.
-
-**[PASSMAN — Password Manager](https://github.com/Apa123-v/PASSOP_MONGO)**
-JWT auth, bcrypt hashing, full CRUD, one-click copy-to-clipboard. The project where I actually learned *why* you hash before you store, not just that you're supposed to. Cut task time by ~40% through UI flow changes.
-
-**[Career Path Development Model](https://github.com/Apa123-v/Career_Path_Development_Model)**
-An AI-assisted roadmap generator — feed it a goal, get back milestones and interactive practice prompts. Python backend, React + Tailwind on the front end.
-
-**[Accredian Web Clone](https://github.com/Apa123-v/Accredian_Web_Clone)**
-Rebuilt a production landing page in Next.js focused purely on performance and responsiveness — a good exercise in matching someone else's design intent exactly, not just approximating it.
-
-**[Task Tracker](https://github.com/Apa123-v/Task_Tracker)**
-Java + JDBC + MySQL, handling 50+ concurrent records with actual SOLID structure behind it, not just a CRUD script. Cut data inconsistency by ~30%.
-
-<details>
-<summary><b>A few more — clones, portfolio, and other builds</b></summary>
-<br/>
-
-**[My Portfolio](https://github.com/Apa123-v/My_Portfolio)** — React, Tailwind, Three.js, and EmailJS, with a few 3D touches I probably over-engineered. [Live here](https://courageous-kelpie-5be897.netlify.app).
-
-**[Spotify Frontend Clone](https://github.com/Apa123-v/SPOTIFY-WEB-PLAYER-CLONE)** — Vanilla HTML/CSS/JS, fully responsive from 480px to 1200px.
-
-**Netflix Clone** — HTML5 + CSS3, chasing pixel-perfect layout with Flexbox/Grid.
-
-</details>
-
-<br/>
-
-## Hardware I've built
-
-ECE degree, so a few of these actually involve a soldering iron.
-
-**Automatic Fire Extinguisher System**
-ATmega328P + IR thermal sensors + CO₂/H₂S gas sensors on a custom PCB. Detects fire hazards and triggers extinguishing on its own — built for residential safety, not just as a lab exercise.
-
-**Automatic Irrigation System**
-ESP32 with soil moisture and AHT25 sensors, controlling water supply via relay modules based on real-time readings. My first real IoT project where the sensor data actually had to be *right*, not just present.
-
-<br/>
-
-## Education
-
-**B.Tech, Electronics & Communication Engineering** — BBDITM, Lucknow (2022–2026), GPA 9.37
-
-Also picked up certifications along the way in Java full-stack development, data science with Python, advanced Java, and an IEEE workshop on IoT and solar/LED tech — mostly because I wanted the structured version of things I'd already been teaching myself.
-
-<br/>
-
-## A quick stat card, because why not
+---
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Apa123-v&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+
+## ✨ *"Code is poetry written in logic — every function a stanza, every bug a plot twist."* ✨
+
 </div>
 
-<br/>
+---
 
-## Outside of code
+## 🌌 About Me
 
-Badminton keeps me disciplined, chess keeps me patient, and I'm the person who reads the book before deciding whether to trust the movie. I do hackathons for both software and hardware tracks — different muscles, same fun.
+I'm an ECE engineer who fell down the rabbit hole of full-stack development — and never wanted to climb back out. I love the moment a stubborn bug finally clicks, the satisfaction of a clean commit history, and the thrill of shipping something real that people can actually use. Whether I'm wiring up a sensor circuit or architecting a MERN backend, I'm happiest when I'm building.
 
-<br/>
+```javascript
+const aparna = {
+  name:        "Aparna Tiwari",
+  location:    "Lucknow, Uttar Pradesh 🇮🇳",
+  education:   "B.Tech ECE @ BBDITM (2022–2026) | GPA: 9.37 🎓",
+  role:        "Full-Stack Developer + Embedded Systems Explorer",
 
-## Let's talk
+  stack: {
+    languages:  ["Java", "Python", "JavaScript", "SQL", "C"],
+    frontend:   ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS", "Three.js"],
+    backend:    ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt"],
+    databases:  ["MongoDB", "MySQL", "PostgreSQL"],
+    tools:      ["Git", "GitHub", "VS Code", "Postman", "Netlify"],
+    ece:        ["ATmega328P", "ESP32", "JDBC", "IoT", "PCB Design"],
+  },
 
-I'm open to internships, collabs, or just a good conversation about a gnarly bug. Reach me on [LinkedIn](https://linkedin.com/in/aparna-tiwari-b1068b330) or [email](mailto:kirantiwari9984@gmail.com).
-
-<br/>
+  currentlyLearning: ["Advanced DSA", "System Design", "VLSI Fundamentals"],
+  currentlyBuilding: "Whatever idea kept me up last night 💡",
+  funFact:           "ECE student who fell in love with code 💜",
+  motto:             "When in doubt, read a book — and then build something.",
+};
+```
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
+
+💬 **Ask me about:** React architecture · REST API design · MERN debugging · IoT + embedded systems
+🌱 **Currently exploring:** System Design & VLSI Fundamentals
+⚡ **Fun fact:** I'll happily trade sleep for a working build at 2 AM
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 🔌 ECE & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧭 Career Path Development Model — AI Career Roadmap Generator
+> *"Turning uncertainty into a plan, one milestone at a time."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Career__Path__Model-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Career_Path_Development_Model)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | Python · React · Tailwind CSS · Lucide Icons |
+| 🤖 **Core Idea** | AI-driven roadmap generator that maps out personalized career milestones |
+| 🖱️ **UX Feature** | Interactive practice mock popups for hands-on guidance |
+| 🎯 **Goal** | Make career planning dynamic, visual, and genuinely useful |
+
+---
+
+### 🌐 Accredian Web Clone — High-Performance Landing Page
+> *"Pixel-precision meets real-world performance."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Accredian__Web__Clone-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Accredian_Web_Clone)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | Next.js · React · Tailwind CSS |
+| ⚡ **Focus** | High-performance, fully responsive landing page rebuild |
+| 📱 **Responsive** | Optimized across mobile, tablet, and desktop breakpoints |
+| 🏗️ **Architecture** | Component-driven Next.js structure for speed and scalability |
+
+---
+
+### 🏫 School ERP Management System — Full-Stack MERN App
+> *"From admissions to attendance, all in one dashboard."*
+
+[![Repo](https://img.shields.io/badge/GitHub-School__ERP__System-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/School_ERP_Management_System)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | MongoDB · Express.js · React.js · Node.js |
+| 🏢 **Scope** | Full-stack school management system covering core administrative workflows |
+| 🗄️ **Architecture** | RESTful MERN backend with a dynamic React frontend |
+| 🎯 **Goal** | Centralize and simplify day-to-day school operations |
+
+---
+
+### ⭐ Store Rating Platform — Personalized Review System
+> *"Every store has a story — this platform lets you rate it."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Store__Rating__Platform-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Store-Rating-Platform)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | React.js · Next.js · PostgreSQL |
+| 🏪 **Core Feature** | Add stores, submit reviews, and browse personalized ratings |
+| 🗄️ **Database** | Relational schema in PostgreSQL for structured store & review data |
+| 🎯 **Goal** | A clean, trustworthy platform for community-driven store feedback |
+
+---
+
+### 🔐 PASSMAN — Full Stack Password Manager
+> *"Your secrets, secured with science."*
+
+[![Repo](https://img.shields.io/badge/GitHub-PASSMAN-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/PASSOP_MONGO)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | MongoDB · Express.js · React.js · Node.js · JWT · bcrypt |
+| 🔒 **Security** | JWT authentication + bcrypt password hashing |
+| ✂️ **UX Feature** | One-click copy-to-clipboard for stored credentials |
+| 📊 **Impact** | 40% improvement in task efficiency via optimized UI flows |
+| ⚡ **Operations** | Full CRUD — Create, Read, Update, Delete passwords |
+
+---
+
+### ✅ Task Tracker Application
+> *"Chaos organized. Deadlines respected. Code appreciated."*
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | Java · SQL · JDBC · MySQL · OOP Principles |
+| 📦 **Capacity** | Handles 50+ concurrent task records |
+| 🗄️ **Database** | Relational schemas with JDBC integration |
+| 📐 **Architecture** | SOLID & OOP design patterns for maintainability |
+| 📉 **Impact** | 30% reduction in data inconsistency |
+
+---
+
+### 🌐 Developer Portfolio Website
+> *"Where pixels meet personality."*
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify)](https://courageous-kelpie-5be897.netlify.app)
+[![Repo](https://img.shields.io/badge/GitHub-Portfolio-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/My_Portfolio)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | React.js · Tailwind CSS · Three.js · Vite · EmailJS |
+| 🎮 **3D Elements** | Interactive Three.js animations |
+| 📱 **Responsive** | Mobile-to-desktop adaptive design |
+| 🚀 **Deployment** | Netlify with optimized build & asset management |
+
+---
+
+### 🎵 Spotify Frontend Clone
+> *"Because the UI hit different."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Spotify__Clone-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/SPOTIFY-WEB-PLAYER-CLONE)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | HTML · CSS · JavaScript |
+| 📱 **Responsive** | 480px–1200px breakpoints (mobile, tablet, desktop) |
+| ⚡ **Performance** | 35% improved page interaction via optimized DOM |
+| 🎨 **Architecture** | Modular CSS with reusable components |
+
+---
+
+### 🎬 Netflix Clone
+> *"Pixel-perfect. Layout-perfect. Passion-perfect."*
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | HTML5 · CSS3 |
+| 🎨 **Design** | Pixel-perfect Netflix-inspired UI |
+| 📐 **Layout** | Flexbox/Grid for cross-device consistency |
+
+---
+
+### 🔥 Automatic Fire Extinguisher System *(ECE Project)*
+> *"When hardware saves lives."*
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Hardware** | ATmega328P · IR Thermal Sensors · CO₂ & H₂S Gas Sensors |
+| 🏗️ **Build** | Custom PCB-based residential safety system |
+| 🎯 **Function** | Auto-detects fire hazards and triggers extinguishing unit |
+
+---
+
+### 💧 Automatic Irrigation System *(IoT Project)*
+> *"Smart farming, one sensor at a time."*
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Hardware** | ESP32 · Soil Moisture Sensor · AHT25 · Relay Modules |
+| 🌱 **Function** | Monitors soil conditions & auto-controls water supply |
+| 📡 **Protocol** | IoT-based real-time environmental sensing |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apa123-v&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apa123-v&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apa123-v&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apa123-v&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🎓 Education & Training
+
+<div align="center">
+
+| 🏫 Institution | 📚 Program | 📅 Year | ⭐ GPA |
+|---|---|---|---|
+| BBDITM, Lucknow | B.Tech — Electronics & Communication Engineering | 2022–2026 | **9.37** |
+
+</div>
+
+### 🏆 Certifications & Training
+
+- 🟠 **Java Full-Stack Development** — Shape My Skills *(Core Java · JDBC · SQL · HTML · CSS · JavaScript)*
+- 🐍 **Data Science with Python** — Training Program *(Data analysis · Visualization · Handling)*
+- ☕ **Core & Advanced Java** — Training Program *(OOP · Collections · Exception Handling · Multithreading)*
+- 🌐 **IoT, Solar Installation & LED Technology** — IEEE Workshop
+
+---
+
+## 🌟 Beyond the Code
+
+<div align="center">
+
+| 🏸 **Badminton** | ♟️ **Chess** | 📚 **Avid Reader** | 💡 **Hackathons** |
+|---|---|---|---|
+| Discipline through sport | Strategy off-screen | *"When in doubt, read a book"* | Software & Hardware both |
+
+</div>
+
+> *Steve Jobs said: "Think Different." Aparna says: Think, Build, Ship, Repeat.*
+
+---
+
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparna-tiwari-b1068b330)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantiwari9984@gmail.com)
+[![Portfolio](https://img.shields.io/badge/See_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://courageous-kelpie-5be897.netlify.app)
+
+<br/>
+
+*"Open to collaborations, internships, and conversations about clean code & creative tech."*
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
 </div>
