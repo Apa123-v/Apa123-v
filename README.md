@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+Python+%7C+ECE;Turning+caffeine+into+clean+code+%E2%98%95;ECE+student+who+speaks+fluent+JavaScript;Systems+thinker.+Full-Stack+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;I+don%27t+just+write+code%2C+I+craft+experiences+%E2%9C%A8;MERN+Stack+%7C+Java+%7C+Python+%7C+ECE;Turning+caffeine+into+clean+code+%E2%98%95;ECE+student+who+speaks+fluent+JavaScript;Systems+thinker.+Full-Stack+builder.;Currently+shipping+something+new+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,6 +35,8 @@
 
 ## 🌌 About Me
 
+I'm an ECE engineer who fell down the rabbit hole of full-stack development — and never wanted to climb back out. I love the moment a stubborn bug finally clicks, the satisfaction of a clean commit history, and the thrill of shipping something real that people can actually use. Whether I'm wiring up a sensor circuit or architecting a MERN backend, I'm happiest when I'm building.
+
 ```javascript
 const aparna = {
   name:        "Aparna Tiwari",
@@ -44,18 +46,27 @@ const aparna = {
 
   stack: {
     languages:  ["Java", "Python", "JavaScript", "SQL", "C"],
-    frontend:   ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+    frontend:   ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS", "Three.js"],
     backend:    ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt"],
-    databases:  ["MongoDB", "MySQL"],
+    databases:  ["MongoDB", "MySQL", "PostgreSQL"],
     tools:      ["Git", "GitHub", "VS Code", "Postman", "Netlify"],
     ece:        ["ATmega328P", "ESP32", "JDBC", "IoT", "PCB Design"],
   },
 
   currentlyLearning: ["Advanced DSA", "System Design", "VLSI Fundamentals"],
+  currentlyBuilding: "Whatever idea kept me up last night 💡",
   funFact:           "ECE student who fell in love with code 💜",
   motto:             "When in doubt, read a book — and then build something.",
 };
 ```
+
+<div align="center">
+
+💬 **Ask me about:** React architecture · REST API design · MERN debugging · IoT + embedded systems
+🌱 **Currently exploring:** System Design & VLSI Fundamentals
+⚡ **Fun fact:** I'll happily trade sleep for a working build at 2 AM
+
+</div>
 
 ---
 
@@ -71,6 +82,7 @@ const aparna = {
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -81,6 +93,7 @@ const aparna = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -101,6 +114,62 @@ const aparna = {
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 🧭 Career Path Development Model — AI Career Roadmap Generator
+> *"Turning uncertainty into a plan, one milestone at a time."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Career__Path__Model-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Career_Path_Development_Model)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | Python · React · Tailwind CSS · Lucide Icons |
+| 🤖 **Core Idea** | AI-driven roadmap generator that maps out personalized career milestones |
+| 🖱️ **UX Feature** | Interactive practice mock popups for hands-on guidance |
+| 🎯 **Goal** | Make career planning dynamic, visual, and genuinely useful |
+
+---
+
+### 🌐 Accredian Web Clone — High-Performance Landing Page
+> *"Pixel-precision meets real-world performance."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Accredian__Web__Clone-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Accredian_Web_Clone)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | Next.js · React · Tailwind CSS |
+| ⚡ **Focus** | High-performance, fully responsive landing page rebuild |
+| 📱 **Responsive** | Optimized across mobile, tablet, and desktop breakpoints |
+| 🏗️ **Architecture** | Component-driven Next.js structure for speed and scalability |
+
+---
+
+### 🏫 School ERP Management System — Full-Stack MERN App
+> *"From admissions to attendance, all in one dashboard."*
+
+[![Repo](https://img.shields.io/badge/GitHub-School__ERP__System-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/School_ERP_Management_System)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | MongoDB · Express.js · React.js · Node.js |
+| 🏢 **Scope** | Full-stack school management system covering core administrative workflows |
+| 🗄️ **Architecture** | RESTful MERN backend with a dynamic React frontend |
+| 🎯 **Goal** | Centralize and simplify day-to-day school operations |
+
+---
+
+### ⭐ Store Rating Platform — Personalized Review System
+> *"Every store has a story — this platform lets you rate it."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Store__Rating__Platform-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/Store-Rating-Platform)
+
+| Feature | Detail |
+|---|---|
+| 🧱 **Stack** | React.js · Next.js · PostgreSQL |
+| 🏪 **Core Feature** | Add stores, submit reviews, and browse personalized ratings |
+| 🗄️ **Database** | Relational schema in PostgreSQL for structured store & review data |
+| 🎯 **Goal** | A clean, trustworthy platform for community-driven store feedback |
+
+---
 
 ### 🔐 PASSMAN — Full Stack Password Manager
 > *"Your secrets, secured with science."*
@@ -134,7 +203,7 @@ const aparna = {
 > *"Where pixels meet personality."*
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify)](https://courageous-kelpie-5be897.netlify.app)
-[![Repo](https://img.shields.io/badge/GitHub-Portfolio-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123v/My_Portfolio)
+[![Repo](https://img.shields.io/badge/GitHub-Portfolio-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/My_Portfolio)
 
 | Feature | Detail |
 |---|---|
@@ -147,6 +216,8 @@ const aparna = {
 
 ### 🎵 Spotify Frontend Clone
 > *"Because the UI hit different."*
+
+[![Repo](https://img.shields.io/badge/GitHub-Spotify__Clone-7c3aed?style=for-the-badge&logo=github)](https://github.com/Apa123-v/SPOTIFY-WEB-PLAYER-CLONE)
 
 | Feature | Detail |
 |---|---|
